@@ -53,7 +53,7 @@ class HomeView extends GetView<AppController> {
                 Icons.add_circle,
                 color: Colors.white,
               )),
-          Text('Weathr App', style: TextStyle(color: Colors.white)),
+          Text('Thusmeteo App', style: TextStyle(color: Colors.white)),
           IconButton(
               onPressed: () => {Get.toNamed(Routes.ABOUT)},
               icon: Icon(
