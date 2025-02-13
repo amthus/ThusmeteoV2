@@ -2,9 +2,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:ThusmeteoV2/app/modules/home/widgets/weather_screen.dart';
-import 'package:ThusmeteoV2/app/controllers/app_controller.dart';
-import 'package:ThusmeteoV2/app/routes/app_pages.dart';
+import 'package:thusmeteo_v2/app/modules/home/widgets/weather_screen.dart';
+import 'package:thusmeteo_v2/app/controllers/app_controller.dart';
+import 'package:thusmeteo_v2/app/routes/app_pages.dart';
 
 class HomeView extends GetView<AppController> {
   @override

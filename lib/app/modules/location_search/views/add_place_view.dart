@@ -1,9 +1,9 @@
 // Code de AddPlaceView 
 
-import 'package:flutter/cupertino.dart';
+// import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:ThusmeteoV2/app/controllers/app_controller.dart';
+import 'package:thusmeteo_v2/app/controllers/app_controller.dart';
 
 class AddPlaceView extends GetView<AppController> {
   final TextEditingController _searchController = TextEditingController();

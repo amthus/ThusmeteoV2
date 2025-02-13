@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:ThusmeteoV2/app/routes/app_pages.dart';
+import 'package:thusmeteo_v2/app/routes/app_pages.dart';
 
 class MyApp extends StatelessWidget {
   @override
