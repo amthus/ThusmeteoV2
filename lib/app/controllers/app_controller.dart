@@ -6,6 +6,13 @@ import 'package:thusmeteo_v2/app/modules/home/models/weather_data.dart';
 import 'package:thusmeteo_v2/app/modules/home/models/forecast.dart';
 
 class AppController extends GetxController {
+  
+
+  final RxBool isHovered = false.obs;
+
+  void updateHoverState(bool isHovered) {
+    this.isHovered.value = isHovered;
+  }
   final currentPage = 0.obs;
 
   // Stockage des données météo et prévisions sous forme de RxMap
