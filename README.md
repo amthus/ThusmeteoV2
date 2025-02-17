@@ -12,7 +12,7 @@
 7. **Navigation entre les écrans avec GetX** : Utiliser la navigation de GetX pour passer d'un écran à un autre de manière fluide.
 
 #### Mongroupes :
-1. **AMETEPE C . A Malthus** 
+1. **AMETEPE Malthus** 
 2. **DINGBOE Roméo**
 3. **THON Charbel**
 4. **GBAGUIDI Hillary**
@@ -51,4 +51,4 @@ L'application sera organisée en plusieurs modules et services pour une meilleur
 2. **Création d'un service API** : Créez un fichier `api_service.dart` pour gérer les requêtes HTTP vers l'API OpenWeatherMap et récupérer les données météorologiques actuelles et futures.
 
 ### Conclusion
-Cette application météo simple permet d'afficher les prévisions météorologiques en utilisant une API publique. Grâce à Flutter et GetX, nous avons construit une structure de projet modulaire, avec une gestion d'état claire et une interface utilisateur fluide, ce qui constitue une excellente base pour une application de météo robuste.
+Cette application météo simple permet d'afficher les prévisions météorologiques en utilisant une API publique. Grâce à Flutter et GetX, nous avons construit une structure de projet modulaire, avec une gestion d'état claire et une interface utilisateur fluide, ce qui constitue une excellente base pour une application de météo simple.
