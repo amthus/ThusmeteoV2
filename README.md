@@ -1,7 +1,3 @@
-# thusmeteo2
-
-Voici un résumé adapté au contexte de l'application météo simple :
-
 ### Création d'une Application Météo avec Flutter
 
 **Description** : Cette application météo utilise une API publique (OpenWeatherMap) pour afficher les prévisions météorologiques actuelles et à venir. L'application présente des informations comme la température, les conditions climatiques, et d'autres détails utiles, tout en mettant en œuvre les bonnes pratiques de développement avec Flutter, telles que l'intégration d'une API, la gestion d'état avec GetX, et une organisation claire du code.
@@ -14,6 +10,13 @@ Voici un résumé adapté au contexte de l'application météo simple :
 5. **Structure du projet** : Organiser le projet de manière modulaire, en séparant clairement les responsabilités de chaque fonctionnalité pour rendre le code facile à maintenir et étendre.
 6. **Création de l'interface utilisateur** : Développer une interface simple avec des écrans de présentation des prévisions actuelles, des recherches de villes, et une page "À propos".
 7. **Navigation entre les écrans avec GetX** : Utiliser la navigation de GetX pour passer d'un écran à un autre de manière fluide.
+
+#### Mongroupes :
+1. **AMETEPE C . A Malthus** 
+2. **DINGBOE Roméo**
+3. **THON Charbel**
+4. **GBAGUIDI Hillary**
+5. **HOUNTONDJI Jephté**
 
 #### Prérequis :
 - Connaissances de base du langage Dart.
